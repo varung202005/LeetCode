@@ -71,4 +71,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/varung202005/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/varung202005/LeetCode/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
