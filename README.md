@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/varung202005/LeetCode/tree/master/0036-valid-sudoku) |
 | [1331-rank-transform-of-an-array](https://github.com/varung202005/LeetCode/tree/master/1331-rank-transform-of-an-array) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/varung202005/LeetCode/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Sorting
 |  |
 | ------- |
@@ -92,4 +93,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/varung202005/LeetCode/tree/master/0067-add-binary) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/varung202005/LeetCode/tree/master/3760-maximum-substrings-with-distinct-start) |
 <!---LeetCode Topics End-->
