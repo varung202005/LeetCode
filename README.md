@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/varung202005/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/varung202005/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/varung202005/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/varung202005/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/varung202005/LeetCode/tree/master/0189-rotate-array) |
 | [0867-transpose-matrix](https://github.com/varung202005/LeetCode/tree/master/0867-transpose-matrix) |
 | [1331-rank-transform-of-an-array](https://github.com/varung202005/LeetCode/tree/master/1331-rank-transform-of-an-array) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/varung202005/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/varung202005/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 ## Enumeration
 |  |
 | ------- |
