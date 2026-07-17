@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/varung202005/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0036-valid-sudoku](https://github.com/varung202005/LeetCode/tree/master/0036-valid-sudoku) |
 | [0046-permutations](https://github.com/varung202005/LeetCode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/varung202005/LeetCode/tree/master/0047-permutations-ii) |
 | [0054-spiral-matrix](https://github.com/varung202005/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/varung202005/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/varung202005/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/varung202005/LeetCode/tree/master/0047-permutations-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/varung202005/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 ## Matrix
 |  |
@@ -101,4 +103,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/varung202005/LeetCode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/varung202005/LeetCode/tree/master/0047-permutations-ii) |
 <!---LeetCode Topics End-->
