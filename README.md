@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/varung202005/LeetCode/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/varung202005/LeetCode/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/varung202005/LeetCode/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/varung202005/LeetCode/tree/master/0258-add-digits) |
@@ -107,4 +108,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0046-permutations](https://github.com/varung202005/LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/varung202005/LeetCode/tree/master/0047-permutations-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/varung202005/LeetCode/tree/master/0062-unique-paths) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/varung202005/LeetCode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
