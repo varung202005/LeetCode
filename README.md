@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/varung202005/LeetCode/tree/master/0189-rotate-array) |
 | [0867-transpose-matrix](https://github.com/varung202005/LeetCode/tree/master/0867-transpose-matrix) |
 | [1331-rank-transform-of-an-array](https://github.com/varung202005/LeetCode/tree/master/1331-rank-transform-of-an-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/varung202005/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3895-count-digit-appearances](https://github.com/varung202005/LeetCode/tree/master/3895-count-digit-appearances) |
 ## Math
 |  |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/varung202005/LeetCode/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/varung202005/LeetCode/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/varung202005/LeetCode/tree/master/0258-add-digits) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/varung202005/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/varung202005/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3895-count-digit-appearances](https://github.com/varung202005/LeetCode/tree/master/3895-count-digit-appearances) |
 ## Two Pointers
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/varung202005/LeetCode/tree/master/0258-add-digits) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/varung202005/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/varung202005/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Tree
 |  |
