@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/varung202005/LeetCode/tree/master/0047-permutations-ii) |
 | [0054-spiral-matrix](https://github.com/varung202005/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/varung202005/LeetCode/tree/master/0059-spiral-matrix-ii) |
+| [0063-unique-paths-ii](https://github.com/varung202005/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/varung202005/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/varung202005/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/varung202005/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/varung202005/LeetCode/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/varung202005/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/varung202005/LeetCode/tree/master/0059-spiral-matrix-ii) |
+| [0063-unique-paths-ii](https://github.com/varung202005/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/varung202005/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0867-transpose-matrix](https://github.com/varung202005/LeetCode/tree/master/0867-transpose-matrix) |
 ## Binary Search
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/varung202005/LeetCode/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/varung202005/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/varung202005/LeetCode/tree/master/0064-minimum-path-sum) |
 ## Combinatorics
 |  |
