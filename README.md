@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/varung202005/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0125-valid-palindrome](https://github.com/varung202005/LeetCode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/varung202005/LeetCode/tree/master/0189-rotate-array) |
 ## Simulation
 |  |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/varung202005/LeetCode/tree/master/0067-add-binary) |
+| [0125-valid-palindrome](https://github.com/varung202005/LeetCode/tree/master/0125-valid-palindrome) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/varung202005/LeetCode/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Backtracking
 |  |
