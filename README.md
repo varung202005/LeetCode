@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/varung202005/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/varung202005/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3895-count-digit-appearances](https://github.com/varung202005/LeetCode/tree/master/3895-count-digit-appearances) |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/varung202005/LeetCode/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Math
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/varung202005/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/varung202005/LeetCode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/varung202005/LeetCode/tree/master/0189-rotate-array) |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/varung202005/LeetCode/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Simulation
 |  |
 | ------- |
