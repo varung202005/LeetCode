@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/varung202005/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/varung202005/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/varung202005/LeetCode/tree/master/0064-minimum-path-sum) |
+| [0078-subsets](https://github.com/varung202005/LeetCode/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/varung202005/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/varung202005/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/varung202005/LeetCode/tree/master/0189-rotate-array) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/varung202005/LeetCode/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/varung202005/LeetCode/tree/master/0078-subsets) |
 | [0191-number-of-1-bits](https://github.com/varung202005/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/varung202005/LeetCode/tree/master/0268-missing-number) |
 ## Hash Table
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0046-permutations](https://github.com/varung202005/LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/varung202005/LeetCode/tree/master/0047-permutations-ii) |
+| [0078-subsets](https://github.com/varung202005/LeetCode/tree/master/0078-subsets) |
 ## Dynamic Programming
 |  |
 | ------- |
