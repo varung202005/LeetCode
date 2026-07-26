@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/varung202005/LeetCode/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/varung202005/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/varung202005/LeetCode/tree/master/0268-missing-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/varung202005/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0867-transpose-matrix](https://github.com/varung202005/LeetCode/tree/master/0867-transpose-matrix) |
 | [1331-rank-transform-of-an-array](https://github.com/varung202005/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/varung202005/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/varung202005/LeetCode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/varung202005/LeetCode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/varung202005/LeetCode/tree/master/0268-missing-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/varung202005/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/varung202005/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/varung202005/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3895-count-digit-appearances](https://github.com/varung202005/LeetCode/tree/master/3895-count-digit-appearances) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0047-permutations-ii](https://github.com/varung202005/LeetCode/tree/master/0047-permutations-ii) |
 | [0268-missing-number](https://github.com/varung202005/LeetCode/tree/master/0268-missing-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/varung202005/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/varung202005/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 ## Matrix
 |  |
