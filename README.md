@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/varung202005/LeetCode/tree/master/0090-subsets-ii) |
 | [0191-number-of-1-bits](https://github.com/varung202005/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/varung202005/LeetCode/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/varung202005/LeetCode/tree/master/0338-counting-bits) |
 ## Hash Table
 |  |
 | ------- |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/varung202005/LeetCode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/varung202005/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/varung202005/LeetCode/tree/master/0064-minimum-path-sum) |
+| [0338-counting-bits](https://github.com/varung202005/LeetCode/tree/master/0338-counting-bits) |
 | [0877-stone-game](https://github.com/varung202005/LeetCode/tree/master/0877-stone-game) |
 ## Combinatorics
 |  |
