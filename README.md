@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/varung202005/LeetCode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/varung202005/LeetCode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/varung202005/LeetCode/tree/master/0367-valid-perfect-square) |
+| [0509-fibonacci-number](https://github.com/varung202005/LeetCode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/varung202005/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/varung202005/LeetCode/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/varung202005/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/varung202005/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/varung202005/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0338-counting-bits](https://github.com/varung202005/LeetCode/tree/master/0338-counting-bits) |
+| [0509-fibonacci-number](https://github.com/varung202005/LeetCode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/varung202005/LeetCode/tree/master/0877-stone-game) |
 ## Combinatorics
 |  |
@@ -180,4 +182,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/varung202005/LeetCode/tree/master/0877-stone-game) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/varung202005/LeetCode/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/varung202005/LeetCode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
